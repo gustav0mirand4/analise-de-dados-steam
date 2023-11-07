@@ -1,6 +1,6 @@
 #### Analise de dados 
 
-Repositorio para o material do trabalho de apresentaçao final da disciplina de Topicos de Big Data em Python. Dataset escolhido foi do jogo Dota 2.
+Repositorio para o material do trabalho de apresentaçao final da disciplina de Topicos de Big Data em Python. Dataset escolhido foi do material de Dota 2.
 
 ##### FACIMP - CAMPUS IMPERATRIZ
 
