@@ -1,6 +1,8 @@
 #### ANÁLISE DE DADOS DA STEAM  
 
-Repositorio para o material do trabalho de apresentaçao final da disciplina de Topicos de Big Data em Python. Dataset escolhido foi do material de Recomendaçao de Jogos da Steam.
+Repositorio para o material do trabalho de apresentaçao final da disciplina de Topicos de Big Data em Python. O material escolhido foi Recomendaçao de Jogos da Steam.
+
+Dataset: https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam
 
 ##### FACIMP - CAMPUS IMPERATRIZ
 
