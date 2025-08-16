@@ -1,6 +1,6 @@
 #### ANÁLISE DO CUSTO-BENEFÍCIO NA COMPRA DE JOGOS DA PLATAFORMA STEAM
 
-Repositório para o material do trabalho de apresentaçao final, da disciplina de Tópicos de Big Data em Python do curso Bacharel em Sistemas de Informação. O material escolhido foi Recomendação de Jogos da Steam. Os alunos com auxilio do professor, devem elaborar um projeto completo de análise  e coleta dados usando as  ferramentas; `pandas` para analise de dados, `matplotlib` para a geração de gráficos e `streamlit` para o dashboard. Ao final do projeto, deve-se apresentar em sala de aula o projeto completo. 
+Repositório para o material do trabalho de apresentaçao final, da disciplina de Tópicos de Big Data em Python do curso Bacharel em Sistemas de Informação. O material escolhido foi Recomendação de Jogos da Steam. Os alunos com auxilio do professor, devem elaborar um projeto completo de análise  e coleta dados usando as  ferramentas; `pandas` para analise de dados, `matplotlib` para a geração de gráficos e `streamlit` para o dashboard. Ao final do projeto, a apresentação será feita em sala. 
 
 ##### FACIMP - CAMPUS IMPERATRIZ
 
